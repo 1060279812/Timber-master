@@ -56,7 +56,6 @@ import java.util.Map;
 
 public class MainActivity extends BaseActivity implements ATEActivityThemeCustomizer {
 
-
     private static MainActivity sMainActivity;
     SlidingUpPanelLayout panelLayout;
     NavigationView navigationView;

@@ -60,6 +60,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     SlidingUpPanelLayout panelLayout;
     NavigationView navigationView;
     TextView songtitle, songartist;
+
     ImageView albumart;
     String action;
     Map<String, Runnable> navigationMap = new HashMap<String, Runnable>();

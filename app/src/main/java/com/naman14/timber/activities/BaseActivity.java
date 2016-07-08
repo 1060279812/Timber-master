@@ -64,7 +64,6 @@ public class BaseActivity extends ATEActivity implements ServiceConnection, Musi
 
         mPlaybackStatus = new PlaybackStatus(this);
 
-
     }
 
     @Override

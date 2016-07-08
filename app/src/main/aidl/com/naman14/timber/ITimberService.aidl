@@ -4,6 +4,7 @@ import com.naman14.timber.helpers.MusicPlaybackTrack;
 
 interface ITimberService
 {
+
     void openFile(String path);
     void open(in long [] list, int position, long sourceId, int sourceType);
     void stop();

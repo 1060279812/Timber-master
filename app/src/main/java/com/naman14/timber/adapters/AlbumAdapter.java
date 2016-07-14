@@ -102,8 +102,6 @@ public class AlbumAdapter extends RecyclerView.Adapter<AlbumAdapter.ItemHolder> 
                                             itemHolder.artist.setTextColor(textColor);
                                         }
                                     }
-
-
                                 }
                             });
                         }
